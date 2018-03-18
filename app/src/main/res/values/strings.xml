@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab 3</string>
+    <string name="title_item_list">Lab 3!</string>
+    <string name="title_item_detail">Company Detail</string>
+    <string name="url">http://google.com</string>
+    <string name="feed_url">http://feeds.bbci.co.uk/news/world/rss.xml</string>
+    <string name="companyName">FNOXLand</string>
+    <string name="phone">0732453620</string>
+    <string name="email">thefnox@gmail.com</string>
+    <string name="abouttext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non maximus lacus, feugiat rhoncus nibh. Vivamus consequat orci sodales libero vehicula ultrices. Aenean pellentesque at magna sed porta. Donec neque est, tempus ac nisi nec nullam sodales.</string>
+</resources>
